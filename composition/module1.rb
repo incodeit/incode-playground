@@ -1,6 +1,6 @@
 module Module1
-  def func2
-    puts "Module1#func2"
+  def module1_func1
+    puts "func1 in module1"
   end
 
 end

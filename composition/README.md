@@ -7,6 +7,7 @@ irb -I
 
 example
 ```
+require './class2.rb'
 require './class1.rb'
 c = Class1.new
 c.func2
